@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}   
+.container1{
+    /* width: 70pc; */
+    /* height: 40pc; */
+    /* background: url("cloud.jpg") no-repeat; */
+    /* height: 50pc; */
+}
+.container2{
+    width: fit-content;
+    margin: auto;
+    margin-top: 10pc;
+}
+
